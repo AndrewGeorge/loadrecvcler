@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SRecyclerView">
+        <attr name="mode"></attr>
+    </declare-styleable>
+    <attr name="mode">
+        <enum name="list" value="0"></enum>
+        <enum name="waterfall" value="1"></enum>
+    </attr>
+</resources>
